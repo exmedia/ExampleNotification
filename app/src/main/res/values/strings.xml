@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExampleNotification</string>
+    <string name="mark_read">Mark as read</string>
+</resources>
